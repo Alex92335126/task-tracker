@@ -92,7 +92,7 @@ const App = () => {
     </div>
   );
 }
-
+// change
 // class App extends React.Component {
 //   render () { 
 //     return <h1> Hello from a class</h1>
